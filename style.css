@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.banner-img{
+    background-color: #dc3545;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+.title{
+    font-weight: 900;
+    font-size: 57px;
+}
+.banner-btn{
+    border: 1px solid #343a40;
+    text-decoration: none;
+    padding: 10px 35px;
+    margin: 5px;
+    border-radius: 7px;
+}
+.btn-ios{
+   background-color: #343a40;
+    color: white;
+}
+.btn-android{
+    color: #505056;
+}
+.btn-ios:hover {
+    background-color: white;
+    color: #505056;
+}
+.btn-android:hover {
+    background-color: #505056;
+    color: white;
+}
